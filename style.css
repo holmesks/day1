@@ -1,0 +1,16 @@
+h1{
+    color: violet
+}
+p{
+    color:indigo
+}
+a{
+    text-decoration:none;
+    cursor: grab;
+}
+#first{
+    color:purple
+}
+#sec{
+    color:blueviolet
+}

@@ -1,0 +1,17 @@
+/* .box{ 
+    color:blueviolet;
+    margin:50px;
+    padding:100px;
+    border:2px;
+    border-style:dashed;
+    
+  }  */
+  .box{
+    color:blue;
+    width:200px;
+    height:200px;
+    border:2px dashed rgb(169, 100, 226);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
